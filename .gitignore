@@ -2,3 +2,4 @@
 *.zip
 *.pptx
 document_classification_20newsgroups.ipynb
+*.xml
