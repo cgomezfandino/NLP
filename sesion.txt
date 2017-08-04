@@ -1,0 +1,18 @@
+Algoritmo de tex mining
+TF-IDF
+
+
+---
+posibles ideas para trabajo:
+- asistente virtuales: Bots
+- sentiment analysis.
+- Traduccion automatica
+- Information extraction (para extraer info muy espcifica)
+- information Retrival (buscadores)
+- Conocimiento de voz STT(Speach to Text) - TTS (Text to speach)
+
+
+http://brat.nlplab.org/
+user: crunchy
+/editable/tutorials/news/
+pwd: frog
